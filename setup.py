@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.3"
 
-REPO_NAME = "PYPI_TEMPLATE"
+REPO_NAME = "DEMO"
 AUTHOR_USER_NAME = "vinayaklearnsML2022"
-SRC_REPO = "PYPI_TEMPLATE"
+SRC_REPO = "DEMO"
 AUTHOR_EMAIL = "vinayak.srinivasan@gmail.com"
 
 
